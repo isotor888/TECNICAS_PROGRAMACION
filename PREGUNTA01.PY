@@ -1,1 +1,0 @@
-print ("Hola mundo, mi nombre es Ismael Gilver Soto Rodriguez")
